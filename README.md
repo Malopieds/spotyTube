@@ -1,4 +1,4 @@
-# Spotitube
+# SpotiTube
 
 Simple script to transfer a Spotify playlist to youtube music
 
@@ -11,6 +11,7 @@ Requirement:
 ```
 ytmusicapi, requests
 ```
+- follow [those instructions](https://ytmusicapi.readthedocs.io/en/latest/setup/oauth.html)
 
 How to use:
 -------
